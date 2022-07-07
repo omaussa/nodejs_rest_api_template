@@ -31,7 +31,7 @@
     "express": "^4.17.1",
     "express-jwt": "^5.3.3",
     "http": "0.0.1-security",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.31",
     "path-to-regexp": "^6.1.0"
   },
